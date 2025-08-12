@@ -41,8 +41,7 @@ msgstr "Unbekannter Befehl"
 msgid ""
 "Success! Books queued for Metadata Backup, please check Tasks for result"
 msgstr ""
-"Bücher wurden für Metadaten Backup eingereiht, für das Ergebnis bitte "
-"Aufgaben überprüfen"
+"Bücher wurden für Metadaten Backup eingereiht, für das Ergebnis bitte Aufgaben überprüfen"
 
 #: cps/admin.py:223 cps/editbooks.py:744 cps/editbooks.py:787
 #: cps/editbooks.py:1438 cps/updater.py:604 cps/uploader.py:97
@@ -66,9 +65,7 @@ msgstr "Benutzeroberflächenkonfiguration"
 #: cps/web.py:774
 #, python-format
 msgid "Custom Column No.%(column)d does not exist in calibre database"
-msgstr ""
-"Benutzerdefinierte Spalte Nr. %(column)d ist nicht in Calibre Datenbank "
-"vorhanden"
+msgstr "Benutzerdefinierte Spalte Nr. %(column)d ist nicht in Calibre Datenbank vorhanden"
 
 #: cps/admin.py:349 cps/templates/admin.html:53
 msgid "Edit Users"
@@ -99,7 +96,7 @@ msgstr "Ungültige Anfrage"
 
 #: cps/admin.py:496 cps/admin.py:2106
 msgid "Guest Name can't be changed"
-msgstr "Name 'Guest' kann nicht geändert werden"
+msgstr "Gast-Name kann nicht geändert werden"
 
 #: cps/admin.py:508
 msgid "Guest can't have this role"
@@ -107,12 +104,11 @@ msgstr "Benutzer 'Guest' kann diese Rolle nicht haben"
 
 #: cps/admin.py:520 cps/admin.py:2060
 msgid "No admin user remaining, can't remove admin role"
-msgstr ""
-"Kein Admin Benutzer verblieben, Admin Berechtigung kann nicht entfernt werden"
+msgstr "Kein Admin Benutzer verblieben, Admin Berechtigung kann nicht entfernt werden""
 
 #: cps/admin.py:524 cps/admin.py:538
 msgid "Value has to be true or false"
-msgstr "Wert muss true oder false sein"
+msgstr "Wert muss wahr oder falsch sein"
 
 #: cps/admin.py:526
 msgid "Invalid role"
@@ -1601,8 +1597,7 @@ msgstr "Es trat ein Fehler auf"
 #: cps/shelf.py:369
 #, python-format
 msgid "A public shelf with the name '%(title)s' already exists."
-msgstr ""
-"Es existiert bereit ein öffentliches Bücherregal mit dem Namen '%(title)s'."
+msgstr "Es existiert bereit ein öffentliches Bücherregal mit dem Namen '%(title)s'."
 
 #: cps/shelf.py:380
 #, python-format

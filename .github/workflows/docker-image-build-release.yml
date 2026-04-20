@@ -1,10 +1,6 @@
 name: Build & Push - Release - Split Strategy
-# Automatically builds/pushes multi-platform release images when a GitHub Release is published
 
 on:
-  release:
-    types:
-      - published
   workflow_dispatch:
 
 jobs:
